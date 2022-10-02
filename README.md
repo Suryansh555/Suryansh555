@@ -7,9 +7,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sh9CLzXHQ5vIUBhNkbLbHkfmPCsZrpC7/view?usp=sharing](https://drive.google.com/file/d/1Sh9CLzXHQ5vIUBhNkbLbHkfmPCsZrpC7/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh555&" alt="suryansh555" /></p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
