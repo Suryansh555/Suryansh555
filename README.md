@@ -26,4 +26,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bank Smart Contract](https://suryansh-may.medium.com/bank-smart-contract-3e98f6ed816d?source=rss-4b51adb0e1------2)
 <!-- BLOG-POST-LIST:END -->
