@@ -26,5 +26,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis On Titanic Dataset](https://suryansh-may.medium.com/exploratory-data-analysis-on-titanic-dataset-e24e2a67c076?source=rss-4b51adb0e1------2)
+- [How Alibaba is leveraging AI to be the leading China’s e-commerce giant](https://suryansh-may.medium.com/how-alibaba-is-leveraging-ai-to-be-the-leading-chinas-e-commerce-giant-87b9e76f222b?source=rss-4b51adb0e1------2)
 - [Bank Smart Contract](https://suryansh-may.medium.com/bank-smart-contract-3e98f6ed816d?source=rss-4b51adb0e1------2)
+- [AWS CLI - Simpler than it looks](https://suryansh-may.medium.com/aws-cli-simpler-than-it-looks-4eb5605ea5a9?source=rss-4b51adb0e1------2)
+- [Transforming Education Industry with AWS](https://suryansh-may.medium.com/transforming-education-industry-with-aws-e2930eadd7fc?source=rss-4b51adb0e1------2)
 <!-- BLOG-POST-LIST:END -->
